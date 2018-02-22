@@ -37,16 +37,16 @@ $ npm start
 ``` json
 [
   {
-    _id: "5a8e86085240345721695881",
-    name: "John",
-    sex: "male",
-    __v: 0
+    "_id": "5a8e86085240345721695881",
+    "name": "John",
+    "sex": "male",
+    "__v": 0
   },
   {
-    _id: "5a8e86085240345721695882",
-    name: "Jane",
-    sex: "female",
-    __v: 0
+    "_id": "5a8e86085240345721695882",
+    "name": "Jane",
+    "sex": "female",
+    "__v": 0
   }
 ]
 ```
